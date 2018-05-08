@@ -1,6 +1,6 @@
 ### Section 3.6 The Chain Rule
 
-+ The Chain Rule (_Proof_)
++ The Chain Rule ([Proof](../misc/chain_rule.html))
   + Version 1: $\dfrac{dy}{dx} = \dfrac{dy}{du} \cdot \dfrac{du}{dx}$
   + Version 2: $\dfrac{d}{dx}[f(g(x))] = f'(g(x))g'(x)$
 + Chain Rule for Powers

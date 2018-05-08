@@ -3,7 +3,7 @@
 + Trigonometric Limits ([Proof](../misc/two_special_limits.html))
   + $\dlim_{x\to 0}\dfrac{\sin x}{x} = 1$
   + $\dlim_{x\to 0}\dfrac{\cos x - 1}{x} = 0$
-+ Derivative of Sine and Cosine (_Proof_)
++ Derivative of Sine and Cosine ([Proof](../misc/derivative_of_sine_and_cosine.html))
 + Derivative of the Trigonometric Functions
 + Higher-Order Trigonometric Functions ($y=\sin x, \frac{dy}{dx}, \frac{d^2y}{dx^2}, \frac{d^3y}{dx^3}$)
 

@@ -1,5 +1,13 @@
 ### Section 3.9 Derivatives of Inverse Trigonometric Functions
-pg216: 5, 7, 11, 15, 19, 20, 23, 27, **33**, 39, 42, 45, 47, **53**, 59, 65
+
++ Derivative of Inverse Sine: $\dfrac{d}{dx}\sin^{-1} x = \frac{1}{\sqrt{1-x^2}}$, for $-1<x<1$. (_Proof_)
++ Derivative of Inverse Trigonometric Functions. (_Proof_)
++ Derivative of the Inverse Function: $(f^{-1})'(y_0) = \frac{1}{f'(x_0)}$, where $y_0=f(x_0)$. (_Proof_)
++ Derivative of an Inverse Function. (_Ex5_)
+
+
+#### Homework
+p216: 5, 7, 11, 15, 19, 20, 23, 27, **33**, 39, 42, 45, 47, **53**, 59, 65
 
 5\. Suppose $f$ is a one-to one function with $f(2)=8$ and $f'(2)=4$, what is the value of $(f^{-1})'(8)$?
 >Solution

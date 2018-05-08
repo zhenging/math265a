@@ -1,5 +1,12 @@
 ### Section 3.6 The Chain Rule
-pg187: 3, 19-37odd, 41, 47, 51, 57, 60, 71, 87
+
++ The Chain Rule (_Proof_)
+  + Version 1: $\dfrac{dy}{dx} = \dfrac{dy}{du} \cdot \dfrac{du}{dx}$
+  + Version 2: $\dfrac{d}{dx}[f(g(x))] = f'(g(x))g'(x)$
++ Chain Rule for Powers
+
+#### Homework
+p187: 3, 19-37odd, 41, 47, 51, 57, 60, 71, 87
 
 3\. Fill in the blanks. The derivative of $f(g(x))$ equals $f'$ evaluated at **g(x)** multiplied by $g'$ evaluated at **x**.
 

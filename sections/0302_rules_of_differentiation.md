@@ -1,5 +1,15 @@
 ### Section 3.2 Rules of Differentiation
-pg148: 3, 7, 11, 15, 16, 21, 24, 27, 29, 34, 35, 37, 41, 43, 46, 53, 69, 77
+
++ Constant Rule
++ Power Rule
++ Constant Multiple
++ Sum Rule
++ The Derivative of $e^x$
++ Slope of Tangent line
++ Higher-order Derivatives
+
+#### Homwork
+p148: 3, 7, 11, 15, 16, 21, 24, 27, 29, 34, 35, 37, 41, 43, 46, 53, 69, 77
 
 3\. Give a nonzero function that is its own derivative.
 >Solution

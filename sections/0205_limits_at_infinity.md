@@ -1,5 +1,15 @@
 ### Section 2.5 Limits at Infinity
-pg98: 5, 9, 11, 12, 15, 19, 21, 27, 30, 33, 35, 41, 47, 49, 57, 77
+
++ Limits at Infinity and Horizontal Asymptote: $\dlim_{x \to \pm \infty} f(x)=L$
++ Infinite Limites at Infinity: $\dlim_{x \to \pm \infty} f(x)=\pm \infty$
++ Limits at Infinity of Powers and Polynomials
++ End behavior (_Ex3_)
++ Slant Asymptote
++ End behavior and Asymptote of Rational Functions ($f(x) = \frac{p(x)}{q(x)}$)
++ End behavior of $e^x, e^{-x}, \ln x$, (_Ex6_)
+
+#### Homework
+p98: 5, 9, 11, 12, 15, 19, 21, 27, 30, 33, 35, _41_, 47, 49, 57, _77_
 
 5\. Describe the end behavior of $f(x)=-2x^3$
 >Solution

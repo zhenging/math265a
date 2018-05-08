@@ -1,5 +1,15 @@
 ### Section 2.7 Precise Definition of Limits
-pg121: 5, 9, 10, 15, 19
+
++ Moving Toward a Precise Definition
++ Limit Proofs:
+  1. Find $\delta$.
+  2. Write a proof.
++ Justifying Limits Laws
++ Infinite Limits
++ Limits at Infinity
+
+#### Homework
+p121: 5, 9, 10, 15, 19
 
 5\. State the precise definition of $\dlim_{x \to a}f(x) = L$.
 >Solution

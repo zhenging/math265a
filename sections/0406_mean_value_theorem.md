@@ -1,5 +1,12 @@
 ### Section 4.6 Mean Value Theorem
-pg288: 5, 7, 9, 13, 16, 17, 18, 19, 23, 29, 30, 33, 37
+
++ Theorem 4.9 - Mean Value Theorem: $\dfrac{f(b)-f(a)}{b-a} = f'(c)$. (_Proof_)
++ Theorem 4.10 - Zero Derivative Implies Constant Function
++ Theorem 4.11 - Functions with Equal Derivatives Differ by a Constant
++ Theorem 4.12 - Intervals of Increase and Decrease. (_Proof_)
+
+#### Homework
+p288: 5, 7, 9, 13, 16, 17, 18, 19, 23, 29, 30, 33, 37
 
 5\. Draw the graph of a function for which the conclusion of the Mean Value Theorem does not hold.
 >Solution

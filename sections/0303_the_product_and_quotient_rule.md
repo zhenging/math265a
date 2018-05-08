@@ -1,5 +1,14 @@
 ### Section 3.3 The Product and Quotient Rule
-pg158: 2, 7, 9, 14, 17, 19, 21, 25, 31, 33, 41, 43, 47, 55, 59, 63, 69, 82, 88
+
++ Product Rule: $\dfrac{d}{dx}(f(x)g(x)) = f'(x)g(x) + f(x)g'(x)$. (_Proof_)
++ Quotient Rule: $\dfrac{d}{dx}\lb \dfrac{f(x)}{g(x)} \rb = \dfrac{f'(x)g(x)-f(x)g'(x)}{[g(x)]^2}$. (_Proof_)
++ Extended Power Rule. (_Proof_)
++ The Derivative of $e^{kx}$. (_Proof_)
++ Rates of Change (_Ex6_)
++ Combining Derivative Rules (_Ex7_)
+
+#### Homework
+p158: 2, 7, 9, 14, 17, 19, 21, 25, 31, 33, 41, 43, 47, 55, 59, 63, 69, 82, 88
 
 2\. How do you find the derivative of the quotient of two functions that are differentiable at a point?
 >Solution

@@ -1,5 +1,15 @@
 ### Section 4.4 Optimization Problems
-pg269: 3, 7, 13, 17, 21, 25, 29, 37, 43, 51, 62a,b, 63a-d
+
+#### Guidelines for Optimization Problems
+1\. Read the problem carefully, identify the variables, and organize the giveninformation with a picture.
+2\. Identify the objective function (the function to be optimized). Write itin terms of the variables of the problem.
+3\. Identify the constraint(s). Write them in terms of the variables of theproblem.
+4\. Use the constraint(s) to eliminate all but one independent variable of theobjective function.
+5\. With the objective function expressed in terms of a single variable, findthe interval of interest for that variable.
+6\. Use methods of calculus to find the absolute maximum or minimum value of the objective function on the interval of interest. If necessary, check the endpoints.
+
+#### Homework
+p269: 3, 7, 13, 17, 21, 25, 29, 37, 43, 51, 62a,b, 63a-d
 
 3\. Suppose the objective function is $Q=x^2y$ and you know that $x+y=10$. Write the objective function first in terms of $x$ and then in terms of $y$.
 >Solution

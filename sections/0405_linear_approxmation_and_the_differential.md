@@ -1,5 +1,11 @@
 ### Section 4.5 Linear Approxmation and the Differential
-pg282: 1, 2, 6, 7, 11, 13, 16, 19, 23, 30, 31, 35, 39, 44, 51, 57
+
++ Linear Approximation of $f$ at $a$: $L(x) = f(a) + f'(a)(x-a)$
++ Relationship Between $\Delta x$ and $\Delta y$: $\Delta y \approx f'(a)\Delta x$
++ Differentials: $\Delta y = f(x+dx)-f(x) \approx dy=f'(x)dx$
+
+#### Homework
+p282: 1, 2, 6, 7, 11, 13, 16, 19, 23, 30, 31, 35, 39, 44, 51, 57
 
 1\. Sketch the graph of a smooth function $f$ and label a point $P(a, f(a))$ on the curve. Draw the line that represent the linear approximation of $f$ at $P$.
 >Solution

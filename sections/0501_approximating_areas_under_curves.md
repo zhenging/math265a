@@ -1,5 +1,13 @@
 ### Section 5.1 Approximating Areas Under Curves
-pg336: 5, 9, 10a, 13, 15, 19, 21, 25, 31, 34, 37, 39, 41a-d, 42a-c, 47, 51, 55, 59, 67
+
++ Area under a Velocity Curve
++ Approximating Areas by Riemann Sums
+  + Riemann Sum (Left, Right and Midpoint)
+  + Sigma (Summation) Notation
+  + Riemann Sums Using Sigma Notation
+
+#### Homework
+p336: 5, 9, 10a, 13, 15, 19, 21, 25, 31, 34, 37, 39, 41a-d, 42a-c, 47, 51, 55, 59, 67
 
 5\. Suppose the interval $[1, 3]$ is partitioned into $n = 4$ subintervals. What is the subinterval length $\Delta x$? List the grid points $x_0, x_1, x_2, x_3$, and $x_4$. Which points are used for the left, right, and midpoint Riemann sums?
 >Solution

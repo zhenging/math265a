@@ -1,14 +1,27 @@
 ### Section 4.1 Maxima and Minima
-pg237: 5, 13, 16, 21, 27, 29, 35, 39, 42, 45, 53, 59, 65, 77, 79
 
- 5\. Sketch the graph of a function $f$ that has an absolute maximum, a local minimum, but no absolute minimum on $[0, 3]$.
- >Solution
++ Absolute Maxima and Minima
++ **Theorem 4.1** Extreme Value Theorem
++ Local Maximum and Minimum Values
++ **Theorem 4.2** Local Extreme Point Theorem
+  >If $f$ has a local maximum or minimum value at $c$ and $f'(c)$ exists, then $f'(c) = 0$.
++ Crtical Point: $f'(c)=0$ or $f'(c)$ fails to exist.
++ Procedures of Locating Absolute Maximum and Minimum Values
+  1\. Locate the critical points $c$ in $(a, b)$, where $f'(c)$ does not exist. These points are candidates for absolute maxima and minima.
+  2\. Evaluate $f$ at the critical points and at the endpoints of $[a, b]$.
+  3\. Choose the largest and smallest values of $f$ from step 2 for the absolute maximum and minimum values, respectively.
+
+#### Homework
+p237: 5, 13, 16, 21, 27, 29, 35, 39, 42, 45, 53, 59, 65, 77, 79
+
+5\. Sketch the graph of a function $f$ that has an absolute maximum, a local minimum, but no absolute minimum on $[0, 3]$.
+>Solution
 Graph (5).
 
 11-14\. **Absolute maximum/minimum values from graphs** Use the following graphs to identify the points (if any) on the interval $[a, b]$ at which the function has an absolute maximum value or an absolute minimum value.
 13\. Graph (13).
  >Solution
- The graph has an absolute minimum value at point $x=a$, and had no absolute maximum value.
+The graph has an absolute minimum value at point $x=a$, and had no absolute maximum value.
 
 15-18\. **Local and absolute extreme values** Use the following graphs to identify the points on the interval $[a, b]$ at which the local and absolute extreme value occur.
 16\. Graph (16).
@@ -20,8 +33,8 @@ The absolute minimum occurs at points $x=a$.
 
 19-22\. **Designing a function**  Sketch the graph of a continuous function $f$ on $[0, 4]$ satisfying the given properties.
 21\. $f'(1)$ and $f'(3)$ are undefined; $f'(2) = 0$; $f$ has a local maximum at $x=1$;  $f$ has a local minimum at $x=2$;  $f$ has an absolute maximum at $x=3$; and  $f$ has an absolute  minimum at $x=4$;
- >Solution
- Graph (21).
+>Solution
+Graph (21).
 
 23-36\. **Locating critical points**
 a. Find the critical points of the following functions on the domain or on the given interval.
@@ -38,7 +51,6 @@ $$
 a. The critical points are $x=-\frac{2}{3}, \frac{1}{3}$.
 b. According to graphing utility, there is a local maximum at $x=-\frac{2}{3}$, and there is a local minimum at $x=\frac{1}{3}$.
 
-<!-- pagebreak -->
 29\. $f(x) = \dfrac{x}{x^2+1}$
 >Solution
 $$

@@ -1,5 +1,5 @@
 ### Section 5.2 Definite Integrals
-pg351: 3, 9, 11, 17, 21, 26, 29, 31, 37-40, 43, 47, 51, 55, 67, 69, 73
+p351: 3, 9, 11, 17, 21, 26, 29, 31, 37-40, 43, 47, 51, 55, 67, 69, 73
 
 3\. When does the net area of a region equal the area of a region? When does the net area of a region differ from the area of a region?
 >Solution

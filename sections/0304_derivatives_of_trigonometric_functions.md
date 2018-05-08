@@ -1,5 +1,14 @@
 ### Section 3.4 Derivatives of Trigonometric Functions
-pg167: 5, 7, 9, 19, 23, 27, 31, 32, 37, 43, 46, 57, 65, 68, 70, 71a,b
+
++ Trigonometric Limits (_Proof_)
+  + $\dlim_{x\to 0}\dfrac{\sin x}{x} = 1$
+  + $\dlim_{x\to 0}\dfrac{\cos x - 1}{x} = 0$
++ Derivative of Sine and Cosine (_Proof_)
++ Derivative of the Trigonometric Functions
++ Higher-Order Trigonometric Functions ($y=\sin x, \frac{dy}{dx}, \frac{d^2y}{dx^2}, \frac{d^3y}{dx^3}$)
+
+#### Homework
+p167: 5, 7, 9, 19, 23, 27, 31, 32, 37, 43, 46, 57, 65, 68, 70, 71a,b
 
 5\. Let $f(x) = \sin x$. What is the value of $f'(\pi)$?
 >Solution

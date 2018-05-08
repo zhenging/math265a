@@ -1,5 +1,18 @@
 ### Section 4.3 Graphing Functions
-pg262: 7, 11, 17, 24, 27, 33, 37, 56, 57, 71
+
+#### Graphing  Guidelines
+1\. Identify domain or interval of interest.
+2\. Exploit symmetry
+3\. Find the first and second derivatives.
+4\. Find critical points and possible inflection points.
+5\. Find intervals on which the function is increasing/decreasing and concaveup/down.
+6\. Identify extreme values and inflection points.
+7\. Locate vertical/horizontal asymptotes and determine end behavior.
+8\. Find the intercepts.
+9\. Choose an appropriate graphing window and make a graph.
+
+#### Homework
+p262: 7, 11, 17, 24, 27, 33, 37, 56, 57, 71
 
 7\. **Shape of the curve** Sketch a curve with the following properties
 $f'<0$ and $f''<0$, for $x<3$; $f'<0$ and $f''>0$, for $x>3$;

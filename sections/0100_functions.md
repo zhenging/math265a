@@ -1,5 +1,5 @@
 ### Section 1.0 Functions
-pg51: 1a,c,e,f, 2-5, 7a,b,c 10, 12, 13a,c, 15a,d, 16a,c, 17, 20-23, 27, 29, 30a, 33, 35, 37, 40, 45, 48
+p51: 1a,c,e,f, 2-5, 7a,b,c 10, 12, 13a,c, 15a,d, 16a,c, 17, 20-23, 27, 29, 30a, 33, 35, 37, 40, 45, 48
 
 1\. **Explain why or why not** Determine whether the following statements are true and give an explanation or counterexample?
 a. A function could have the property that $f(-x) = f(x)$, for all $x$.

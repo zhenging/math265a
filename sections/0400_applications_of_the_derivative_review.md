@@ -1,5 +1,5 @@
 ### Section 4.0 Applications of the Derivative Review
-pg322: 1c, 4, 39, 49, 71-79
+p322: 1c, 4, 39, 49, 71-79
 1\. **Explain why or why not** Determine whether the following statements are true and give an explanation or counterexample.
 c. $F(x) = x^2+10$ and $G(x)=x^-100$ are antiderivatives of the same function.
 >Solution

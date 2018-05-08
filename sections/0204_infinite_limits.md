@@ -1,19 +1,27 @@
 ### Section 2.4 Infinite Limits
-pg86: 1, 7, 11, 14, 19, 21, 23, 31, 39, 44, 47
+
++ Infinite Limits: $\dlim_{x \to a}f(x) = \pm \infty$. The limit does not exist.
++ One-sided Infinite Limits
++ Vertical Asymptote: $\dlim_{x \to a}f(x) = \pm \infty$, or $\dlim_{x \to a^+}f(x) = \pm \infty$, or $\dlim_{x \to a^-}f(x) = \pm \infty$.
++ Finding Infinite Limits Graphically and Analytically (_Ex2, 3_)
++ Location of vertical asymptote (_Ex5_)
+
+#### Homework
+p86: 1, 7, 11, 14, 19, 21, 23, 31, 39, 44, 47
 
 1\. Use a graph to explain the meaning of $\dlim_{x \to a^+} = -\infty$
 >Solution
 Graph (1).
 
 7\. **Analyzing infinite limit numerically** Compute the values of $f(x) = \dfrac{x+1}{(x-1)^2}$ in the following table and use them to discuss $\dlim_{x \to 1}f(x)$.
+| $x$    | $f(x)$    | $x$    | $f(x)$    |
+|:-------|:----------|:-------|:----------|
+| 1.1    | 210       | 0.9    | 190       |
+| 1.01   | 20100     | 0.99   | 19900     |
+| 1.001  | 2001000   | 0.999  | 1999000   |
+| 1.0001 | 200010000 | 0.9999 | 199990000 |
 >Solution
->| $x$    | $f(x)$    | $x$    | $f(x)$    |
->|:-------|:----------|:-------|:----------|
->| 1.1    | 210       | 0.9    | 190       |
->| 1.01   | 20100     | 0.99   | 19900     |
->| 1.001  | 2001000   | 0.999  | 1999000   |
->| 1.0001 | 200010000 | 0.9999 | 199990000 |
-As $x$ approaches 1, $f(x)$ grows arbitraily large in magnitude, so $\dlim_{x \to 1}f(x) = \infty$.
+See Table Above. As $x$ approaches 1, $f(x)$ grows arbitraily large in magnitude, so $\dlim_{x \to 1}f(x) = \infty$.
 
 11\. **Analyzing infinite limit graphically** The graph of $h$ in the figure has vertical asymptotes as $x=-2$ and $x=3$. Investigate the following limits. Graph (11).
 a. $\dlim_{x \to -2^-}h(x)$ &emsp; b. $\dlim_{x \to -2^+}h(x)$ &emsp; c. $\dlim_{x \to -2}h(x)$
@@ -34,9 +42,11 @@ c. $\dlim_{x \to 0^-}f(x)=-\infty$ &emsp;  d. $\dlim_{x \to 0^+}f(x)=\infty$
 
 21\. a. $\dlim_{x \to 3^+}\dfrac{(x-1)(x-2)}{(x-3)}$ &emsp; b. $\dlim_{x \to 3^-}\dfrac{(x-1)(x-2)}{(x-3)}$ &emsp;c. $\dlim_{x \to 3}\dfrac{(x-1)(x-2)}{(x-3)}$
 >Solution
+Todo
 
 23\. $\dlim_{x \to 0}\dfrac{x^3-5x^2}{x^2}$
 >Solution
+Todo
 
 31-34\. **Finding vertical asymptotes** Find all vertical asymptotes $x=a$ of the following functions. For each value of $a$, discuss $\dlim_{x \to a^+}f(x)$, $\dlim_{x \to a^-}f(x)$, and $\dlim_{x \to a}f(x)$
 31\. $f(x) = \dfrac{x^2-9x+14}{x^2-5x+6}$
@@ -46,6 +56,7 @@ c. $\dlim_{x \to 0^-}f(x)=-\infty$ &emsp;  d. $\dlim_{x \to 0^+}f(x)=\infty$
 a. $\dlim_{x \to \pi/2^+}{\tan x}$ &emsp; b. $\dlim_{x \to \pi/2^-}{\tan x}$
 c. $\dlim_{x \to -\pi/2^+}{\tan x}$ &emsp; d. $\dlim_{x \to -\pi/2^-}{\tan x}$
 >Solution
+Todo
 
 44\. **Matching** Match functions a-f with graphs A-F in the figure without using a graphing utility. Graph (44).
 a. $f(x) = \dfrac{x}{x^2 + 1}$ &emsp; b. $f(x) = \dfrac{x}{x^2 - 1}$

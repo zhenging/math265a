@@ -1,4 +1,4 @@
-Notes of Calculus
+Notes of Calculus I 
 
 To enable git commit hook:
 ```

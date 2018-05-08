@@ -1,5 +1,22 @@
 ### Section 4.7 L'Hopital's Rule
-pg309: 3, 10, 13, 17, 22, 25, 29, 35, 41, 45, 48, 53, 57, 60, 63, 65, 69, 75, 87, 93
+
++ Theorem 4.13 - L'Hopital's Rule ($0/0$)
++ Theorem 4.14 - L'Hopital's Rule ($\infty /\infty$)
++ Related Indeterminated Forms: $0\cdot \infty$ and $\infty - \infty$
++ _Procedure_ Indeterminated Forms $1^{\infty}, 0^0$ and $\infty^0$
+  1\. Evaluate $L = \dlim_{x\to a}g(x)\ln f(x)$. This limit can be put in the form $0/0$ or $\infty/ \infty$, both of which are handled by L'Hopital's Rule.
+  2\. Then $\dlim_{x \to a}f(x)^{g(x)} = e^L$
++ Growth Rates of Functions
++ Theorem 4.15 Ranking Growth Rates as $x \to \infty$
+$$
+\ln^q x \ll x^p \ll x^p\ln^r x \ll x^{p+s} \ll b^x \ll x^x
+$$
++ Pitfalls in Using L'Hopital's Rule
+  1\. $\dlim_{x\to 0}\dfrac{1 - \sin x}{\cos x}$
+  2\. $\dlim_{x\to 0}\dfrac{\sqrt {ax+b}}{\sqrt {cx+d}}$
+
+#### Homework
+p309: 3, 10, 13, 17, 22, 25, 29, 35, 41, 45, 48, 53, 57, 60, 63, 65, 69, 75, 87, 93
 
 3\. Explain the steps used to apply l’Hôpital’s Rule to a limit of the form $0/0$.
 >Solution

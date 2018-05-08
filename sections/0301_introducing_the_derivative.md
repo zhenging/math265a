@@ -1,5 +1,19 @@
 ### Section 3.1 Introducing the Derivative
-pg137: 4, 11, 14, 15, 17, 22, 25, 29, 33, 39, 41, 46, 49, 53, 61, 73
+
++ Tangent line and Rates of Change:
+  + Version 1: $m_{sec}=\dfrac{f(x)-f(a)}{x-a}, m_{tan} = \dlim_{x\to 0}\dfrac{f(x)-f(a)}{x-a}$
+  + Version 2: $m_{sec}=\dfrac{f(x+h)-f(x)}{h}, m_{tan} = \dlim_{h\to 0}\dfrac{f(x+h)-f(x)}{h}$
++ The Derivative Function: $f'(x) = \dlim_{h\to 0}\dfrac{f(x+h)-f(x)}{h}$. $f$ is differentiable at $x$ if $f'(x)$ exists.
++ Derivative Notation: $\dfrac{dy}{dx}, \dfrac{d}{dx}f(x), y'(x)$
++ Graphs of Derivatives
++ Differentiable Implies Continuous. (_Proof_); (Alternative Version) Not Continuous Implies Not Differentiable
++ When is a Function is **Not Differentiable** at a Point?
+  1\. $f$ is not continuous at $a$.
+  2\. $f$ has a corner at $a$.
+  3\. $f$ has a vertical tangent at $a$.
+
+#### Homework
+p137: 4, 11, 14, 15, 17, 22, 25, 29, 33, 39, 41, 46, 49, 53, 61, 73
 
 4\. For a given function $f$, what does $f'$ represent?
 >Solution

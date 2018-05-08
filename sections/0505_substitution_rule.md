@@ -1,4 +1,10 @@
 ### Section 5.5 Substitution Rule
+
++ Indefinite Integrals. $\dint f(g(x))g'(x) dx = \int f(u) du = F(u) + C$
++ Definite Integrals. $\dint_a^b f(g(x))g'(x) dx = \int_{g(a)}^{g(b)} f(u) du$
++ Geometry of Substitution
+
+#### Homework
 p383: 1, 3, 5, 6, 17, 33, 34, 35, 41, 43, 45, 53, 54, 57, 67, 71, 79, 81, 90, 93
 
 1\. On which derivative rule is the Substitution Rule based?

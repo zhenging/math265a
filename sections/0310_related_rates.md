@@ -1,5 +1,14 @@
 ### Section 3.10 Related Rates
-pg222: 5, 14, 19, 23, 28, 29, 32, 34, 37, 45, 50
+
+>Procedure - Steps for Rate-Related Problems
+1\. Read the problem carefully, making a sketch to organize the given information. Identify the rates that are given and the rate that is to be determined.
+2\. Write one or more questions that express the basic relationships among the variables.
+3\. Introduce rates of change by differentiation the appropriate equation(s). with respect to time $t$.
+4\. Subsitute known value and solve for the desired quantity.
+5\. Check that units are consistent and the answer is reasonable. (For example, does it have the correct sign?)
+
+#### Homwork
+p222: 5, 14, 19, 23, 28, 29, 32, 34, 37, 45, 50
 
 5\. **Expanding square** The side of a square increase in length at a rate of $2m/s$.
 a. At what rate is the area of the square changing when the sides are $10m$ long?

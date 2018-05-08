@@ -1,5 +1,11 @@
 ### Section 2.1 The Idea of Limits
-pg59: 3, 4, 7, 11,14, 17, 19, 23, 31
+
++ Average Velocity: $v_{av} = \dfrac{s(t_1) - s(t_0)}{t_1-t_0}$
++ Instantaneous Velocity: $v_{inst} = \dlim_{t \to t_0}v_{av}$
++ Slope of the Tangent Line: $m_{tan} = \dlim_{t \to t_0}m_{sec}$
+
+#### Homework
+p59: 3, 4, 7, 11,14, 17, 19, 23, 31
 
 1\. Suppose $s(t)$ is the position of an object moving along a line at time $t \ges 0$. What is the average velocity between the times $t = a$ and $t = b$?
 >Solution

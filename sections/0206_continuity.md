@@ -1,5 +1,27 @@
 ### Section 2.6 Continuity
-pg109: 2, 9, 10, 13, 16, 17, 20, 21, 23, 29, 35, 37, 45, 51, 53, 57, 61c, 73, 81, 93
+
++ Continuity at a Point: $\dlim_{x \to a} f(x) = f(a)$
++ Continuity Checklist: $f(a)$ is defined, $\dlim_{x \to a} f(x)$ exists and $\dlim_{x \to a} f(x) = f(a)$.
++ Continity Rules: $f+g, f-g, fg, cf, \frac{f}{g}, (f(x))^n$
++ Polynomial and Rational Functions: $f\circ g$
++ Continuity of Composite Functions at a Point
++ Continuity at Endpoints and on an Interval
++ Continuity of Functions with Roots
++ Continuity of Inverse Functions
++ Continuity of Transcendental Functions
+  + Trigonometric Functions
+  + Inverse Trigonometric Functions
+  + Exponential Functions
+  + Logarithmic
++ Limits involing transcendental functions (_Ex7_).
++ The Intermediate Value Theorem
+  + $f$ is continuous on the interval $[a, b]$
+  + $f(a) \le L \le f(b)$
+  + Then there is at least one number $c$ in $(a, b)$ satisfying $f(c)=L$.
++ Finding an interest rate (_Ex8_)
+
+#### Homework
+p109: 2, 9, 10, 13, 16, 17, 20, 21, 23, 29, 35, 37, 45, 51, _53, 57_, 61c, 73, 81, 93
 
 2\. Give the three conditions that must satisfied by a function to be continuous at a point.
 >Solution

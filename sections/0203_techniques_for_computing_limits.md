@@ -1,5 +1,15 @@
 ### Section 2.3 Techniques for Computing Limits
-pg77: 5, 10, 11, 21, 24, 25, 29, 33, 35, 39, 42, 46, 47, 51, 55, 65, 77, 84
+
++ Limits of Linear Functions
++ Limits Raws, Sum, Difference, Constant Multiple, Product, Quotient, Power, Fractional Power
++ Limits of Polynomial and Rational Functions
++ One-sided Limits (Fractional Power)
++ Techniques other then direct substitution (**Algebriac manipulation**)
++ The slope of tangent line to the graphs of$f(x)=2^x$ at the point $P(0, 1)$. _($\ln 2$)_
++ The **Squeeze Theorem**
+
+#### Homework
+p77: 5, 10, 11, 21, 24, 25, 29, 33, 35, 39, 42, 46, 47, 51, 55, 65, 77, 84
 
 1\. How is $\dlim_{x\to a}f(x)$ calculated if $f$ is a polynomial function?
 >Solution

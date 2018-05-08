@@ -1,5 +1,17 @@
 ### Section 3.8 Derivatives of Logarithmic and Exponential Functions
-pg206: 3, 9, 13, 14, 15, **21**, 23, 27, 29, 31, 37, 41, **45**, 52, 55, **59**
+
++ Inverse Properties for $e^x$ and $\ln x$
+  + $e^{\ln x} = x$ for $x>0$ and $\ln(e^x) = x$ for all $x$.
+  + $y=\ln x$ if and only if $x=e^y$
+  + $b^x=e^{\ln b^x} = e^{x\ln b}$
++ Derivative of $\ln x$: $\dfrac{d}{dx}\ln x = \frac{1}{x}, \dfrac{d}{dx}(\ln |u(x)|) = \dfrac{u'(x)}{u(x)}$
++ Derivative of $b^x$: $\dfrac{d}{dx}b^x = b^x\ln b$
++ General Power Rule: $\dfrac{d}{dx}(x^p)= px^{p-1}$ and $\dfrac{d}{dx}(u(x)^p)= p(u(x))^{p-1} \cdot u'(x)$. (_Proof_)
++ Derivative of $\log_b x$: $\dfrac{d}{dx}(\log_b x) = \frac{1}{x \ln b}$
++ Logarithmic differentiation. (_Ex8_)
+
+#### Homework
+p206: 3, 9, 13, 14, 15, **21**, 23, 27, 29, 31, 37, 41, **45**, 52, 55, **59**
 
 3\. Show that $\frac{d}{dx}(\ln kx) = \frac{d}{dx}(\ln x)$, where $x>0$ and $k>0$ is a real number.
 >Solution

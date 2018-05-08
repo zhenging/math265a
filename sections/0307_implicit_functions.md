@@ -1,5 +1,13 @@
 ### Section 3.7 Implicit Functions
-pg196: 5, 9, 13, 19, 21, 28, 33, 39, 47, 48, 53, 57, 73, 77
+
++ Implicit Differentiation. (_Ex1, 2_)
++ Tangent lines with Implies functions. (_Ex3_)
++ Higher-Order Derivatives of Implicit Functions. (_Ex4_)
++ Power Rule for Rational Exponents: $\dfrac{d}{dx}x^{\frac{p}{q}} = \dfrac{p}{q}x^{\frac{p}{q} - 1}$. (_Proof_)
++ Implicit differentiation with rational exponents. (_Ex6_)
+
+#### Homework
+p196: 5, 9, 13, 19, 21, 28, 33, 39, 47, 48, 53, 57, 73, 77
 
 5-12\. **Implicit differentiation** Carry out the following steps.
 a. Use implicit differentiation to find $\dfrac{dy}{dx}$.

@@ -1,18 +1,39 @@
 ### Section 4.2 What Derivatives Tell Us
-pg251: 6, 11, 15, 17, 23, 27, 30, 32, 37, 39, 45, 46, 49, 57, 65, 68, 71, 75, 81, 87, 91, 103
 
- 6\. Sketch a function that changes from concave up to concave down as $x$ increases. Describe how the second derivative of this functions changes?
- >Solution
- Graph (6). As $x$ increases, the second derivative changes from positive to negative at the point at which the concavity is changed from upward to downward.
++ Increasing and Decreasing Functions
++ **Theorem 4.3** Test for Intervals of Increase and Decrease: $f'(x)>0$ or $f'(x)<0$.
++ Idenfitying Local Maxima and Minima
++ **Theorem 4.4** First Derivative Test
+  + If $f'$ changes from positive to negative, $f$ has a local maximum at $c$.
+  + If $f'$ changes from negative to positive, $f$ has a local minimum at $c$.
+  + If $f'$ does not change sign, then $f$ has no local extreme value at $c$.
++ **Theorem 4.5** One Local Extremum Implies Absolute Extremum
++ Concavity and Inflection point
++ **Theorem 4.6** Test for Concavity
+  + $f''>0 \To f \text{ is concave up}$
+  + $f''<0 \To f \text{ is concave down}$
+  + $f''$ changes sign at $c$, then $f$ has an inflection point at $c$.
++ **Theorem 4.7** Second Derivative Test for Local Extrema
+  > Suppose that $f''$ is continuous on an open interval containing $c$ with $f'(c) = 0$.
+  >+ If $f''(c)>0$, $f$ has a local minimum at $c$.
+  >+ If $f''(c)<0$, $f$ has a local maximum at $c$.
+  >+ If $f''(c)=0$, the test is inconclusive and $f$ may have a local maximum, local minimum, or neither at $c$.
 
- 11-14\. **Sketches from properties** Sketch a function that is continuous on $(-\infty, \infty)$ and has the following properties. Use a number line to summarize information about the function.
+#### Homework
+p251: 6, 11, 15, 17, 23, 27, 30, 32, 37, 39, 45, 46, 49, 57, 65, 68, 71, 75, 81, 87, 91, 103
+
+6\. Sketch a function that changes from concave up to concave down as $x$ increases. Describe how the second derivative of this functions changes?
+>Solution
+Graph (6). As $x$ increases, the second derivative changes from positive to negative at the point at which the concavity is changed from upward to downward.
+
+11-14\. **Sketches from properties** Sketch a function that is continuous on $(-\infty, \infty)$ and has the following properties. Use a number line to summarize information about the function.
 11\. $f'(x)<0$ on $(-\infty, 2)$; $f'(x)>0$ on $(2, 5)$; $f'(x)<0$ on $(5, \infty)$
- >Solution
- Graph (11).
+>Solution
+Graph (11).
 
 15\. **Function from derivatives** The following figures give the graph of the derivative of a continuous function $f$ that passes through the origin. Sketch a possible graph if $f$ on the same set of axes. The graphs of $f$ are not unique.
- >Solution
- Graph (15).
+>Solution
+Graph (15).
 
 17-26\. **Increasing and decreasing functions** Find the intervals on which $f$ is increasing and decreasing. Superimpose the graphs of $f$ and $f'$ to verify your work.
 17\. $f(x) = 4-x^2$
@@ -39,7 +60,6 @@ x \in & (1, 2) \To f'(x) >0 & x \in (2, \infty) \To f'(x) <0
 $$
 Graph (23). The function is increasing on $(-\infty, 0), (1, 2)$, and is decreasing on $(0, 1), (2, \infty)$.
 
-<!-- pagebreak -->
 27-38\. **Increasing and decreasing functions** Find the intervals on which $f$ is increasing and decreasing.
 27\. $f(x) = 3\cos 3x$ on $[-\pi, \pi]$
 >Solution

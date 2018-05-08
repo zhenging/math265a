@@ -1,5 +1,11 @@
 ### Section 4.9 Antiderivatives
-pg320: 7, 11, 15, 17, 19, 22, 25, 29, 31, 35, 39, 41, 46, 47, 53, 59, 63, 65, 67, 70, 73, 75, 79, 83, 86, 89, 92, 97, 111, 114
+
++ Antiderivative
++ Theorem 4.16 - The Family of Antiderivatives
++ Theorem 4.17 - Power Rule for Indefinite Intergrals
+
+#### Homework
+p320: 7, 11, 15, 17, 19, 22, 25, 29, 31, 35, 39, 41, 46, 47, 53, 59, 63, 65, 67, 70, 73, 75, 79, 83, 86, 89, 92, 97, 111, 114
 
 7\. Give the antiderivatives of $\dfrac{1}{x}$, for $x>0$.
 >Solution

@@ -1,5 +1,14 @@
 ### Section 3.5 Derivatives as Rates of Change
-pg177: 4, 10, 13, 17, 18, 23, 27, 31, 35, 39, 45, 48, 51
+
++ One-Dimensional Motion
++ Position and Velocity
++ Speed and Acceleration
++ Free Fall (_Ex3_)
++ Growth Models (_Ex4_)
++ Average and Marginal Cost (_Ex5_)
+
+#### Homework
+p177: 4, 10, 13, 17, 18, 23, 27, 31, 35, 39, 45, 48, 51
 
 4\. What is the difference between the **velocity** and **speed** of an object moving in a straight line?
 

@@ -1,6 +1,6 @@
 ### Section 3.4 Derivatives of Trigonometric Functions
 
-+ Trigonometric Limits (_Proof_)
++ Trigonometric Limits ([Proof](../misc/two_special_limits.html))
   + $\dlim_{x\to 0}\dfrac{\sin x}{x} = 1$
   + $\dlim_{x\to 0}\dfrac{\cos x - 1}{x} = 0$
 + Derivative of Sine and Cosine (_Proof_)

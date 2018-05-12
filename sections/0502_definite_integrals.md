@@ -1,4 +1,9 @@
 ### Section 5.2 Definite Integrals
+
++ Net Area
+>Consider the region $R$ bounded by the graph of a continuous function $f$ and the x-axis between $x=a$ and $x=b$. The net area of $R$ is the sum of the areas of the parts of $R$ that lie above the x-axis minus the sum of the areas of the parts of $R$ that lie below the x-axis on $[a,b]$.
+
+#### Homework
 p351: 3, 9, 11, 17, 21, 26, 29, 31, 37-40, 43, 47, 51, 55, 67, 69, 73
 
 3\. When does the net area of a region equal the area of a region? When does the net area of a region differ from the area of a region?

@@ -1,4 +1,23 @@
 ### Section 6.5 Length of Curves
+
+![Graph](../assets/fig_0652.png)
+$$
+\begin{aligned}
+L &\approx \sum_{k=1}^n \sqrt{(\Delta x)^ + (\Delta y_k)^2}\\
+&= \sum_{k=1}^n \sqrt{(\Delta x)^2 \lb 1 + (\frac{\Delta y_k}{\Delta x})^2 \rb}\\
+&= \sum_{k=1}^n \sqrt{1 + (\frac{\Delta y_k}{\Delta x})^2} \Delta x\\
+&= \sum_{k=1}^n \sqrt{1 + f'(x_k^{\ast})^2} \Delta x
+\end{aligned}
+$$
+As n increases and as $\Delta x$ approaches zero, the sum approaches a defined integral, which is also the exact length of the curve. We have
+$$
+\begin{aligned}
+L &= \lim_{n \to \infty} \sum_{k=1}^n \sqrt{1 + f'(x_k^{\ast})^2} \Delta x\\
+&= \int_a^b \sqrt{1 + f'(x)^2} dx
+\end{aligned}
+$$
+
+#### Homework
 p440: 3, 5, 7, 13, 17, 25bc, 27, 28, 29, 31 (Integrate the few that can be done completely and then use Wolfram Alpha or your calculator or other to get approximations on the others.)
 
 3–10\. **Arc length calculations** Find the arc length of the following curves on the given interval by integrating with respect to $x$.

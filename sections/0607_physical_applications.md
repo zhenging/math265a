@@ -1,4 +1,20 @@
 ### Section 6.7 Physical Applications
+
++ Work: $W = \dint_a^b F(x) dx$
++ Lifting problem
+$$
+\begin{aligned}
+W = \int_a^b \rho g y A(y)D(y) dy
+\end{aligned}
+$$
++ Force and Pressure
+$$
+\begin{aligned}
+F = \int_a^b \rho g \underbrace{(a-y)}_{\text{depth}} \underbrace{w(y)}_{\text{width}} dy
+\end{aligned}
+$$
+
+#### Homework
 p458: You may just set up the integrals and not evaluate.  Show a diagram with a coordinate system and representative slice.  Show a Riemann sum on one problem. 5, 6, 27, 28a, 29, 31, 34, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 58, 61
 $$
 \begin{aligned}
@@ -15,7 +31,7 @@ Different volume of water are moved different distance.
 >Solution
 Water of different depth has different force.
 
-27\. **Emptying a swimming pool** A swimming pool has the shape of a box with a base that measures $25 m$ by $15 m$ and a uniform depth of $2.5 m$. How much work is required to pump the water out of the pool when it is full?
+27\. **Emptying a swimming pool** A swimming pool has the shape of a box with a base that measures 25m by 15m and a uniform depth of 2.5m. How much work is required to pump the water out of the pool when it is full?
 >Solution
 $$
 \begin{aligned}
@@ -26,7 +42,7 @@ W &= \int_0^{2.5} \rho g A(y) D(y)dy\\
 \end{aligned}
 $$
 
-28\. **Emptying a cylindrical** tank A cylindrical water tank has height 8 m and radius $2 m$. Graph (28).
+28\. **Emptying a cylindrical tank** A cylindrical water tank has height 8m and radius 2m. Graph (28).
 a. If the tank is full of water, how much work is required to pump the water to the level of the top of the tank and out of the tank?
 >Solution
 $$
@@ -65,7 +81,7 @@ b. Is it true that it takes half as much work to pump the water out of the tank 
 >Solution
 False. $\dint_0^3 \rho g \pi \frac{y^2}{16} (6-y)dy = \frac{135\rho g \pi}{64}$ and $\dint_3^6 \rho g \pi \frac{y^2}{16} (6-y)dy = \frac{297\rho g \pi}{64}$.
 
-34\. Emptying a water trough A water trough has a semicircular cross section with a radius of $0.25 m$ and a length of $3 m$ (see figure).
+34\. Emptying a water trough A water trough has a semicircular cross section with a radius of 0.25m and a length of 3m (see figure).
 a. How much work is required to pump the water out of the trough when it is full?
 b. If the length is doubled, is the required work doubled? Explain.
 c. If the radius is doubled, is the required work doubled? Explain.
@@ -92,7 +108,7 @@ W &= \int_{-5}^5 \rho g A(y) D(y)dy\\
 \end{aligned}
 $$
 
-37\. **Emptying a conical tank** An inverted cone is $2 m$ high and has a base radius of $\frac{1}{2} m$. If the tank is full, how much work is required to pump the water to a level $1 m$ above the top of the tank? Graph (37).
+37\. **Emptying a conical tank** An inverted cone is 2m high and has a base radius of $\frac{1}{2}$m. If the tank is full, how much work is required to pump the water to a level 1m above the top of the tank? Graph (37).
 >Solution
 $$
 \begin{aligned}

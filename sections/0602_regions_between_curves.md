@@ -28,7 +28,6 @@ $$
 \end{aligned}
 $$
 
-<!-- pagebreak -->
 7\. Graph (7). $y=2^x$ and $y=3-x$.
 >Solution
 $2^x=3-x \To x=1$. The area can be given by

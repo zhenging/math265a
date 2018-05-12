@@ -1,4 +1,15 @@
 ### Section 6.4 Volume By Shells
+
+![Graph](../assets/fig_0637.png)
+Let _R_ be the region bounded by $y=f(x), y=g(x)$, and the lines $x=a$ and $x=b$. When R is revolved about _y-axis_, the volume of the resulting solid of revolution is
+$$
+\begin{aligned}
+V &= \lim_{n \to \infty} \sum_{k=1}^n 2\pi x_k^{\ast} (f(x_k^{\ast}) - g(x_k^{\ast})) \Delta x\\
+&= \int_a^b 2\pi x(f(x) - g(x)) dx
+\end{aligned}
+$$
+
+#### Homework
 p432: 2, 3, 5, 6, 9, 13, 15 (do 15 with shells and then again with disk),  17 (do 17 with both shells and washers), 21 (Show adiagram with a representative slice or rectangle and evaluate integrals completely), 33–**45** odd, **48**, 53, 55, 58, **59**, 60, 65 (You may just set up the integral and not evaluate (if desired) on the following. Show a diagram with a representative slice or rectangle.)
 
 2\. Fill in the blanks: A region R is revolved about the **y-axis**. The volume of the resulting solid could (in principle) be found by using the disk/washer method and integrating with respect to **y** or using the shell method and integrating with respect to **x**.

@@ -1,4 +1,40 @@
 ### Section 6.3 Volume By Slicing
+
+#### General Slicing Method
+
+$$
+\begin{aligned}
+V &= \lim_{n \to \infty} \sum_{k=1}^n A(x_k^{\ast}) \Delta x\\
+&= \int_a^b A(x) dx
+\end{aligned}
+$$
+
+#### Disk Method About the x-axis
+Let _R_ be the region bounded by $y=f(x)$, the x-axis and the lines $x=a$ and $x=b$. When R is revolved about x-axis, the volume of the resulting solid of revolution is
+$$
+\begin{aligned}
+V &= \int_a^b \pi f(x)^2 dx
+\end{aligned}
+$$
+
+#### Washer Method About the x-axis
+![Graph](../assets/fig_0630.png)
+Let _R_ be the region bounded by $y=f(x), y=g(x)$, and the lines $x=a$ and $x=b$. When R is revolved about _x-axis_, the volume of the resulting solid of revolution is
+$$
+\begin{aligned}
+V &= \int_a^b \pi (f(x)^2 - g(x)^2) dx
+\end{aligned}
+$$
+
+#### Disk and Washer Method About the y-axis
+![Graph](../assets/fig_0633.png)
+$$
+\begin{aligned}
+V &= \int_c^d \pi (p(y)^2 - q(y)^2) dy
+\end{aligned}
+$$
+
+#### Homework
 p419: 1, 7, 8, 10, 12, 18, 19, 20, 25, 27, 29, 31, 34, 35, 36, **37, 39**, 43, 47, 49, 51, 54, 56, 61a (Show a diagram with a representative slice or rectangle and evaluate integrals completely)
 
 1\. Suppose a cut is made through a solid object perpendicular to the x-axis at a particular point $x$. Explain the meaning of $A(x)$.

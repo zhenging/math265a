@@ -18,7 +18,7 @@ $$
 #### Homework
 p309: 3, 10, 13, 17, 22, 25, 29, 35, 41, 45, 48, 53, 57, 60, 63, 65, 69, 75, 87, 93
 
-3\. Explain the steps used to apply l’Hôpital’s Rule to a limit of the form $0/0$.
+3\. Explain the steps used to apply l'Hôpital's Rule to a limit of the form $0/0$.
 >Solution
 For $\dlim_{x \to a}\frac{f(x)}{g(x)}$
 1\. Verify that $f(x)$ and $g(x)$ are differentiable on an open interval.
@@ -29,7 +29,7 @@ For $\dlim_{x \to a}\frac{f(x)}{g(x)}$
 >Solution
 It means that $\dlim_{x \to \infty}{\frac{f(x)}{g(x)}} = M$, where $0<M<\infty$ is nonzero and finite.
 
-13–22. **$0/0$ form** Evaluate the following limits using l’Hôpital’s Rule.
+13–22. **$0/0$ form** Evaluate the following limits using l'Hôpital's Rule.
 13\. $\dlim_{x \to 2}\frac{x^2-2x}{8-6x+x^2}$
 >Solution
 $$

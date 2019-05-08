@@ -10,7 +10,7 @@ True. Both are the antiderivatives of $2x$.
 >Solution
 Graph (4).
 
-38–51\. **Limits** Evaluate the following limits. Use l’Hôpital’s Rule when needed.
+38–51\. **Limits** Evaluate the following limits. Use l'Hôpital's Rule when needed.
 39\. $\dlim_{t\to 0}\dfrac{1-\cos 6t}{2t}$
 >Solution
 $$

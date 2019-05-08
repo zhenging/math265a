@@ -290,7 +290,7 @@ V &= \frac{50\pi}{6}(\frac{12.6^2}{4} + \frac{14.0^2}{4} + \frac{16.8^2}{4} + \f
 \end{aligned}
 $$
 
-61\. **Cavalieri’s principle** Cavalieri’s principle states that if two solids of equal altitudes have the same cross-sectional areas at every height, then they have equal volumes (see figure).
-a. Use the theory of this section to justify Cavalieri’s principle.
+61\. **Cavalieri's principle** Cavalieri's principle states that if two solids of equal altitudes have the same cross-sectional areas at every height, then they have equal volumes (see figure).
+a. Use the theory of this section to justify Cavalieri's principle.
 >Solution
 By the slicing method, $V = \dint_a^b A(x)dx$, Because the two solid have the same cross-sectional areas ($A(x)$) at every height ($x$), they must have the same volume ($V$).
